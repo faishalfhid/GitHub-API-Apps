@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black1">#24292E</color>
+    <color name="black2">#2B3137</color>
+    <color name="putih1">#FAFBFC</color>
+    <color name="hijau1">#2DBA4E</color>
+    <color name="biru1">#3F72AF</color>
+    <color name="biru2">#112D4E</color>
+    <color name="myActionBarColor">#90C2FF</color>
+</resources>

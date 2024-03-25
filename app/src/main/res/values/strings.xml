@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GitHub User</string>
+    <string name="searchbar_hint">Mau cari siapa nih?</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="content_tab_home">tes home\n</string>
+    <string name="content_tab_text">This is Tab %1$d</string>
+    <string name="username">Username</string>
+    <string name="nama_akun">Nama Akun</string>
+    <string name="jumlah_followers">Jumlah Followers</string>
+    <string name="jumlah_following">Jumlah Following</string>
+</resources>

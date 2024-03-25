@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SumbmissionAwal" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/black1</item>
+        <item name="colorSecondary">@color/hijau1</item>
+        <item name="colorOnPrimary">@color/hijau1</item>
+        <item name="tabSelectedTextColor">@color/black2</item>
+    </style>
+    <style name="Theme.SumbmissionAwal" parent="Base.Theme.SumbmissionAwal" />
+</resources>
